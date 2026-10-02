@@ -1,0 +1,6 @@
+{
+  "name": "Kenya Rental House Hunter",
+  "description": "Find rental apartments and townhouses in Nairobi, Mombasa, and Kisumu with value-for-money scoring based on location, amenities, and CBD proximity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
